@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Lists Module Content">8e7eab6c2f412010e3a2d49df699b6a2</content>
+        <content_attrs/>
+        <content_component display_value="sn-workspace-list-module">19622d2bff222300294153bd6338f1ef</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>list-outline</icon>
+        <id>list</id>
+        <label>Lists</label>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-10 03:02:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a7eab6c2f412010e3a2d49df699b680</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dylan Playtime" source="x_494640_dylanplay">6c3bcfe02f012010e3a2d49df699b697</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="Dylan Playtime">6c3bcfe02f012010e3a2d49df699b697</sys_scope>
+        <sys_update_name>sys_aw_module_0a7eab6c2f412010e3a2d49df699b680</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-10 03:02:23</sys_updated_on>
+        <toolbar_button display_value="Lists Button">0e7eab6c2f412010e3a2d49df699b680</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="Dylan Playtime">947e6b6c2f412010e3a2d49df699b667</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=0a7eab6c2f412010e3a2d49df699b680"/>
+</record_update>
